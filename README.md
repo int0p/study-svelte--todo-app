@@ -23,3 +23,4 @@ https://www.youtube.com/watch?v=OUzaUJ3gEug&t=828s
     - script로 변수/상수 추가하기.
     - html에서 { } 으로 script에서 사용한 변수/상수 사용하기.
     - <svelte:head> 으로 head 수정하기
+![Develop HTML structure](img.png)
