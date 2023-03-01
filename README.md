@@ -1,7 +1,6 @@
-https://www.youtube.com/watch?v=OUzaUJ3gEug&t=828s
-따라하기. 
 
-# 진행상태
+# [스벨트 풀스택 입문 강의 - todo app 만들기](https://www.youtube.com/watch?v=OUzaUJ3gEug&t=828s)
+
 ## (1:32:07) Develop HTML structure
 - src/app.html 
 ```html
@@ -24,3 +23,5 @@ https://www.youtube.com/watch?v=OUzaUJ3gEug&t=828s
     - html에서 { } 으로 script에서 사용한 변수/상수 사용하기.
     - <svelte:head> 으로 head 수정하기
 ![Develop HTML structure](img.png)
+
+## (1:53:46) Apply CSS styles
